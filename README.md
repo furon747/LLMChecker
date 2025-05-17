@@ -20,29 +20,19 @@ Output: I am 95.6561% confident this message was written by an LLM
 
 ---
 
-## 🚀 Features  
-- Dynamic filtering using DAX  
-- Responsive dashboard layout  
-- Custom KPIs and trend analysis  
-- SQL views to normalize raw data  
-
----
-
-## 🧩 Technologies  
-- `Python`, `Pandas`  
-- `SQL`, `SQLite`  
-- `Power BI`, `DAX`  
-- *(Update based on your stack)*
-
----
 
 ## 📁 Dataset  
-- [Sample Sales Data from Kaggle](https://www.kaggle.com/)
+The file `training_data.csv` (included in this repo) was originally downloaded from Kaggle.  
+Unfortunately, the original dataset page link is no longer available, so we’ve embedded the CSV here.  
+ 
+- Source: Kaggle  
+- Filename: `training_data.csv`  
+- Description: The training data consists of two columns of data: one contains the label for the row denoting if it was generated with an LLM or organically from a human, and the other contains the literal message text.
 
 ---
 
 ## 🧠 What I Learned  
-This project helped me solidify my understanding of Power BI's data modeling and visualization capabilities. I also gained hands-on experience with DAX formulas and SQL joins to prepare the dataset for analytics.
+This was my first experience with training and working with machine learning models, and it was a blast. Machine learning is vast, and I think more than anything, this project helped me feel more confident when tackling a problem that involves a learning model. More specifically, I would say this project taught me quite a bit from gathering and preparing the data, all the way to picking the right model (as far as performance and general use case goes).
 
 ---
 
